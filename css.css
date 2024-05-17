@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(111, 231, 117);
+}
+
+
+.a{
+   
+   
+    font-size: large;
+    text-align: center;
+    margin: 12px;
+    width: 60%;
+  
+}
+.a img{
+    border-radius: 50%; 
+    border-bottom: 5px solid black;
+}
+button{
+    border-radius: 50%;
+    border-bottom: 5px solid black;
+}
+nav{
+font-size: large;
+    text-align: center;
+    float: left;
+    border:2px  solid;
+  background-color: rgb(21, 207, 83);
+}
+.b{
+    float: right;
+border: 2px solid black;
+
+
+}
+table{
+    width: 200px ;
+    background-color: rgb(65, 131, 60);
+}
+.ZZ{
+
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);/*  ظل */
+    text-align: center;
+    border-collapse: collapse;
+    float: right;
+
+}

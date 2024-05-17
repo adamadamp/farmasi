@@ -1,0 +1,52 @@
+body {
+  
+  
+    display: flex;/* nes alchacha*/
+    justify-content: center;/* nes alchacha*/
+    align-items: center;
+    background-color: #111d0e; /* لون خلفية الصفحة */
+    font-family: Arial, sans-serif;
+   color: #000000;
+}
+
+.a {
+width: 400px;
+   height: 450px;
+    padding: 20px;
+    background-color: #0e8a0e; /* الون خلفي لعنصر */
+    border-radius: 10px;/*hedoude*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);/*  ظل */
+}
+
+table {
+    height: 400px;
+    width: 400px;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 2px solid #ddd; /* لون الحدود */
+    padding: 8px;
+}
+
+button {
+    background-color: #4CAF50; /* لون الخلفية */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+  
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+      border-radius: 50%;
+    background-color: #45a049; /* لون الخلفية عندما يتم تحويل المؤشر فوقه */
+}
+table:hover{
+    background-color: rgb(83, 201, 15);
+}
+.a img{
+    border-radius: 50%; 
+    border-bottom: 5px solid black;
+}
